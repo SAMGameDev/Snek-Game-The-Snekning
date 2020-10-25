@@ -1,0 +1,18 @@
+﻿  compilation header save succeeded; see C:\Users\SAM\Visual Studio Projects\Snek-Game-The-Snekning\MY_T14-Snek-Start\Engine\FramebufferPS.shh
+  compilation header save succeeded; see C:\Users\SAM\Visual Studio Projects\Snek-Game-The-Snekning\MY_T14-Snek-Start\Engine\FramebufferVS.shh
+  Board.cpp
+  DXErr.cpp
+  Game.cpp
+  Goal.cpp
+  Graphics.cpp
+  Keyboard.cpp
+  Main.cpp
+  MainWindow.cpp
+  Mouse.cpp
+  Snek.cpp
+  SpriteCodex.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 581 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Engine.vcxproj -> C:\Users\SAM\Visual Studio Projects\Snek-Game-The-Snekning\MY_T14-Snek-Start\x64\Release\Engine.exe

@@ -1,5 +1,5 @@
-﻿  compilation header save succeeded; see C:\Users\samim\source\repos\Snek-Game-The-Snekning\MY_T14-Snek-Start\Engine\FramebufferPS.shh
-  compilation header save succeeded; see C:\Users\samim\source\repos\Snek-Game-The-Snekning\MY_T14-Snek-Start\Engine\FramebufferVS.shh
+﻿  compilation header save succeeded; see C:\Users\SAM\Visual Studio Projects\Snek-Game-The-Snekning\MY_T14-Snek-Start\Engine\FramebufferPS.shh
+  compilation header save succeeded; see C:\Users\SAM\Visual Studio Projects\Snek-Game-The-Snekning\MY_T14-Snek-Start\Engine\FramebufferVS.shh
   Board.cpp
   DXErr.cpp
   Game.cpp
@@ -11,4 +11,4 @@
   Mouse.cpp
   Snek.cpp
   SpriteCodex.cpp
-  Engine.vcxproj -> C:\Users\samim\source\repos\Snek-Game-The-Snekning\MY_T14-Snek-Start\x64\Debug\Engine.exe
+  Engine.vcxproj -> C:\Users\SAM\Visual Studio Projects\Snek-Game-The-Snekning\MY_T14-Snek-Start\x64\Debug\Engine.exe
